@@ -1,0 +1,16 @@
+{
+  "name": "spotify-imersao",
+  "version": "1.0.0",
+  "description": "Código implementado durante o curso de imersão front-end Alura, com o objetivo de criar um clone da interface web do Spotify.",
+  "main": "index.js",
+  "scripts": {
+    "scripts": "live-server src --verbose",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
